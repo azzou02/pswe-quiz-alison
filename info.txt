@@ -1,0 +1,2 @@
+Partner 1: Vivian Ma; vivian.ma@vanderbilt.edu; mav
+- Contribution: Created repo, added document, added Github Actions CI pipeline
